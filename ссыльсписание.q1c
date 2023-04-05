@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="УведомлениеОбОтгрузкеМДЛП">
+		<text>ВЫБРАТЬ
+	УведомлениеОбОтгрузкеМДЛП.Ссылка КАК Ссылка
+ИЗ
+	Документ.УведомлениеОбОтгрузкеМДЛП КАК УведомлениеОбОтгрузкеМДЛП
+ГДЕ
+	УведомлениеОбОтгрузкеМДЛП.Номер = &amp;Номер
+</text>
+		<textSQL>
+
+		</textSQL>
+		<planSQL>
+
+		</planSQL>
+		<typeSQL>
+
+		</typeSQL>
+		<parameters>
+			<parameter name="Номер" type="Строка" value="86191"/>
+		</parameters>
+	</query>
+</querylist>
